@@ -1,0 +1,6 @@
+.place__map {
+  max-width: 960px;
+  height: 320px;
+  margin: auto;
+  padding: 0 0 60px;
+}

@@ -1,0 +1,6 @@
+.invite__container {
+  box-sizing: border-box;
+  max-width: 510px;
+  margin: auto;
+  padding: 60px 20px;
+}

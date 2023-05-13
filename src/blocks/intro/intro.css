@@ -1,0 +1,9 @@
+.intro {
+  background: url(../../images/intro.png) center / contain no-repeat;
+}
+
+@media (max-width: 768px) {
+  .intro {
+    background-size: cover;
+  }
+}

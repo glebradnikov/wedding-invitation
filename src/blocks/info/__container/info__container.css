@@ -1,0 +1,6 @@
+.info__container {
+  box-sizing: border-box;
+  max-width: 755px;
+  margin: auto;
+  padding: 60px 20px;
+}

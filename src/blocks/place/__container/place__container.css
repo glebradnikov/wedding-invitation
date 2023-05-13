@@ -1,0 +1,6 @@
+.place__container {
+  box-sizing: border-box;
+  max-width: 1000px;
+  margin: auto;
+  padding: 60px 20px;
+}

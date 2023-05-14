@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f26dea8d.css",
+    "main.js": "/static/js/main.c3e10457.js",
+    "static/media/intro.png": "/static/media/intro.bd697aadf36a95580b28.png",
+    "static/media/PlayfairDisplay-Regular.ttf": "/static/media/PlayfairDisplay-Regular.566ae3ce7c638d9c1352.ttf",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.94bb495fba6077f669ed.ttf",
+    "static/media/FrenchKissscript.ttf": "/static/media/FrenchKissscript.c8af8cc70e39d9120bce.ttf",
+    "index.html": "/index.html",
+    "main.f26dea8d.css.map": "/static/css/main.f26dea8d.css.map",
+    "main.c3e10457.js.map": "/static/js/main.c3e10457.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f26dea8d.css",
+    "static/js/main.c3e10457.js"
+  ]
+}

@@ -175,7 +175,7 @@ export const App = () => {
           }
         />
         <Route
-          path='/adnrey-ekaterina-alisa'
+          path='/andrey-ekaterina-alisa'
           element={
             <Main
               adjective={obj.adjective1}

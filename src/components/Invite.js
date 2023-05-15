@@ -8,19 +8,18 @@ export const Invite = (props) => {
           {props.name}!
         </h2>
         <p className='invite__text'>
-          Вот и наступил самый долгожданный день в нашей жизни, который мы хотим
-          провести в кругу близких и друзей.
+          Вот и&nbsp;наступил самый долгожданный день в&nbsp;нашей жизни,
+          который мы&nbsp;хотим провести в&nbsp;кругу близких и&nbsp;друзей.
         </p>
         <p className='invite__text'>
-          Мы счастливы пригласить {props.pronoun1} на нашу свадьбу! Надеемся,
-          что {props.pronoun2} этот особенный день с нами.
+          С&nbsp;большим удовольствием приглашаем {props.pronoun1}{' '}
+          на&nbsp;знаменательный праздник&nbsp;- нашу свадьбу!
         </p>
-        <p className='invite__datetime'>Суббота | 08.07.2023 | 15:30</p>
-        <p className='invite__text'>Глэмпинг «Клевер»</p>
+        <p className='invite__datetime'>Суббота | 8 июля 2023 | 15:30</p>
         <p className='invite__text'>
           Ярославский р-н, Карабихское с.п., п. Дубки, Глэмпинг «Клевер»
         </p>
-        <p className='invite__signature'>Глеб и Александра</p>
+        <p className='invite__signature'>Глеб и&nbsp;Александра</p>
       </div>
     </section>
   );

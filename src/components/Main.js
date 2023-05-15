@@ -12,8 +12,6 @@ export const Main = (props) => {
         adjective={props.adjective}
         name={props.name}
         pronoun1={props.pronoun1}
-        pronoun2={props.pronoun2}
-        pronoun3={props.pronoun3}
       />
       <Schedule />
       <Info />

@@ -1,0 +1,10 @@
+.intro__text_type_arrow {
+  position: absolute;
+  top: 80%;
+  left: 0;
+  width: 100%;
+  font-size: 45px;
+  text-align: center;
+  color: #000;
+  transform: rotate(90deg);
+}

@@ -10,6 +10,7 @@ export const Intro = () => {
           <span className='intro__main-title_color_brown'>Александра</span>
         </h1>
         <p className='intro__text'>08.07.2023</p>
+        <p className='intro__text intro__text_type_arrow intro__arrow'>»</p>
       </div>
     </section>
   );

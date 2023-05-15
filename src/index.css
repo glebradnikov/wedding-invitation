@@ -8,6 +8,7 @@
 @import url(./blocks/intro/__main-title/intro__main-title.css);
 @import url(./blocks/intro/__main-title/_color/intro__main-title_color_brown.css);
 @import url(./blocks/intro/__text/intro__text.css);
+@import url(./blocks/intro/__text/_type/intro__text_type_arrow.css);
 
 @import url(./blocks/invite/invite.css);
 @import url(./blocks/invite/__container/invite__container.css);

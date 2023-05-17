@@ -45,6 +45,16 @@ export const App = () => {
           }
         />
         <Route
+          path='/natalya-vladimir-dmitriy'
+          element={
+            <Main
+              adjective={obj.adjective1}
+              name='Наталья, Владимир и Дмитрий'
+              pronoun1={obj.pronoun1}
+            />
+          }
+        />
+        <Route
           path='/ilya-olga'
           element={
             <Main
@@ -219,7 +229,7 @@ export const App = () => {
           element={
             <Main
               adjective={obj.adjective3}
-              name='Алексей a.k.a брат, братан, братишка'
+              name='Алексей'
               pronoun1={obj.pronoun2}
             />
           }
@@ -255,7 +265,7 @@ export const App = () => {
           }
         />
         <Route
-          path='/ilya-victoria'
+          path='/ilya-viktoria'
           element={
             <Main
               adjective={obj.adjective1}
@@ -295,12 +305,12 @@ export const App = () => {
           }
         />
         <Route
-          path='/seymur'
+          path='/seymur-hursant'
           element={
             <Main
-              adjective={obj.adjective3}
-              name='Сеймур'
-              pronoun1={obj.pronoun2}
+              adjective={obj.adjective1}
+              name='Сеймур и Хурсант'
+              pronoun1={obj.pronoun1}
             />
           }
         />

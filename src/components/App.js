@@ -305,6 +305,16 @@ export const App = () => {
           }
         />
         <Route
+          path='/vitaliy'
+          element={
+            <Main
+              adjective={obj.adjective3}
+              name='Виталий'
+              pronoun1={obj.pronoun2}
+            />
+          }
+        />
+        <Route
           path='/seymur-hursant'
           element={
             <Main

@@ -305,6 +305,16 @@ export const App = () => {
           }
         />
         <Route
+          path='/maxim'
+          element={
+            <Main
+              adjective={obj.adjective3}
+              name='Максим'
+              pronoun1={obj.pronoun2}
+            />
+          }
+        />
+        <Route
           path='/vitaliy'
           element={
             <Main
